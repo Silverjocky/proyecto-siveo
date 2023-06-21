@@ -1,0 +1,8 @@
+Los paquetes instalados son (Node):
+1.Express
+2.Body-parser
+3.Hbs
+4.Cors
+
+
+Atentamente con amor y cariño : Enrique 
